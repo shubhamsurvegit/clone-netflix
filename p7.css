@@ -1,0 +1,62 @@
+.col,span{
+    color:lightblue;
+}
+.container{
+    margin:auto;
+}
+.text{
+    text-align: center;
+}
+
+
+input{
+    box-sizing: border-box;
+    width:80%;
+    padding:7px;
+    margin:10px;
+    margin-left:120px;
+}
+
+label{
+    margin-left:120px;
+}
+
+.btn{
+    background-color: lightblue;
+    color: white;
+    font-size: 16px;
+    border:none;
+}
+
+.table{
+    width:90%;
+    margin:25px 0px 0px 100px;
+}
+
+th{
+    padding-right:250px; 
+}
+
+.lal{
+    text-align: center;
+    background-color: red;
+    color:white;
+    padding:8px;
+    width:390px;
+    margin:auto;
+}
+
+.hara{
+    text-align: center;
+    background-color:green;
+    color:white;
+    padding:8px;
+    width:390px;
+    margin:auto;
+}
+
+.del{
+    color: red;
+}
+
+
